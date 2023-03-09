@@ -1,0 +1,52 @@
+.hdng1{
+    color:rgb(255, 255, 255);
+         text-align:center;
+         font-size:25px;
+  }
+
+  .container9{
+    display:grid;
+    place-items: center;
+  }
+  .typejob{
+    border-radius: 5px;
+    border-color: aqua;
+    bor
+  }
+
+  .hdng2{
+    color:red;
+         text-align: center;
+         font-size:20px;
+  }
+
+  
+  .locate9{
+    height: 40px;
+    border-radius: 15px;
+    width:500px;
+    text-align: center;
+  }
+
+
+  .category9{
+    height: 40px;
+    border-radius: 15px;
+    width:500px;
+    text-align: center;
+
+  }
+  
+  .status9{
+    height: 40px;
+    border-radius: 15px;
+    width:500px;
+    text-align: center;
+
+  }
+
+  .text-center{
+    display:grid;
+    place-items: center;
+  
+  }

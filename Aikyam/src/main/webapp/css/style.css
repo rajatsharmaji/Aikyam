@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;1,400;1,500&display=swap');
+/* FrontEnd page */
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    border-radius: 3px white;
+}
+li,a,button{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    word-spacing: 70px;
+    align-items: center;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:30px 10%;
+}
+.nav_links{
+    list-style: none;
+    text-align: center;
+
+}
+.nav_links li{
+    display: inline-block;
+    padding: 0px 20px;
+
+}
+.nav_links li a {
+    transition: all 0.3s ease 0s;
+}
+.navbar{
+    padding-left: 202px;
+
+}
+.Heading{
+text-align: center;
+padding-top: 100px;
+}
+.form{
+text-align: center;
+
+ 
+ 
+}
+.input{
+    background: transparent;
+    flex: 1;
+    border: 0; outline: none;
+    color:black;
+    font-size: 16px;
+    padding-left: 30px;
+    background-color:whitesmoke;
+    border-radius: 10px;
+    padding: 8px;
+    padding-right: 80px;
+    padding-left: 20px;
+}
+.submit{
+    background: transparent;
+    flex: 1;
+    border: 0; outline: none;
+    color:white;
+    font-size: 16px;
+    padding-left: 30px;
+    background-color:red;
+    border-radius: 10px;
+    padding: 8px;
+    padding-right: 30px;
+    padding-left: 20px;
+
+}
+
+
+
+
+
+

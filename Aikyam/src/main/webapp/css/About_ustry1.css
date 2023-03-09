@@ -1,0 +1,43 @@
+.all{
+  margin-top: 80px;
+  margin-bottom: 80px;
+  padding-bottom: 80px;
+}
+
+h2{text-align: center; color: rgb(255, 255, 255);font-size: 40px; }
+body {
+    background-color: #000000;
+    font-family: sans-serif;
+}
+h3{text-align: center; color:red;font-size: 2rem;}
+p {
+    text-align: center; color: rgb(253, 239, 239);font-size: 1.75rem;
+}
+ul {
+    text-align: center; color:rgb(253, 239, 239);font-size: 1.75rem;   
+}
+
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450;
+    height: 300;
+  }
+  .align {
+    background-color: rgb(0, 0, 0);
+height:670px;
+
+ border-radius: 10px;
+  }
+
+  .aligncard{
+    display:grid;
+    background-color: #57ccd4;
+    height: 680px;
+    border-radius: 10px;
+    margin-left: 260px;
+ margin-right: 260px;
+    border: 1px solid #57ccd4;
+  }

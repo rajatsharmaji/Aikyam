@@ -1,0 +1,146 @@
+.footer{
+    width: 100%;
+    height: 350px;
+    background-color: aliceblue;
+    display: flex;
+  float:left;
+  background-color: #333;
+}
+.pad{
+   background-color:#333;
+  width:100px;
+  
+  
+}
+
+  
+  
+
+.col1{
+  width:33%;
+  background-color:#333;
+  text-align: center; 
+  
+}
+
+.list{
+   
+    list-style: none;
+    line-height: 1.8em;
+    padding-left: 0px;
+    padding-bottom: 25px;
+}
+ a{ display: block;
+    text-decoration: none;
+    color: aliceblue;
+
+ }
+    
+   
+.col22{
+  width:33%;
+  background-color:#333;
+  text-align:center;
+}
+  
+
+.searchbar2{
+  display:center;
+  width:250px;
+  height: 30px;
+  text-align:center;
+  border-radius:35px;
+}
+
+.submits{
+    width: 50px;
+    height: 25px;
+ border-radius:35px;
+ background-color: rgb(213, 229, 229);
+}
+
+
+
+.col3{
+  width:33%;
+  text-align:center;
+  background-color:#333;
+
+}
+
+h2{
+    font-size: 18.72px;
+    font-weight: 300;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 75px;
+  padding-bottom:10px;
+  letter-spacing: 1px;
+  padding-bottom: 15px;
+}
+
+
+h3{
+    font-weight: 300;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 10px;
+  padding-bottom:10px;
+  letter-spacing: 1px;
+  padding-bottom: 15px;
+}
+p{
+    font-size:16px;
+    padding-top: 0px;
+    display: grid;
+}
+.icon{
+   margin-left: 100px;
+    width: 180px;
+    height: 60px;
+    background-color:#333;
+    padding-left: 20px;
+}
+.emailing{
+  padding-left: 0px;
+  height: 20px;
+}
+  .calling{
+    
+    height: 20px;
+    
+
+}
+/*
+
+
+.no{
+    display: inline;
+    text-align: left;
+  padding-left: 5px;
+  display: grid;
+}
+
+
+   
+    */
+.mail{
+    display: inline;
+    text-align: left;
+  padding-left: 5px;
+  display: grid;
+}
+.pad2{
+    background-color:#333;
+    width:100px;}
+
+    .list3{
+   
+      list-style: none;
+      line-height: 1.8em;
+      padding-left: 0px;
+      padding-bottom: 25px;
+  }
+
+    /*#F2F4F6
+    */
